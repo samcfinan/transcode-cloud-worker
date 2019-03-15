@@ -28,4 +28,4 @@ build/Release
 node_modules
 
 # SECRETS
-transcode-cloud-service-account.json
+/config

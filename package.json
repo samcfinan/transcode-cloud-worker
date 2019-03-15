@@ -1,6 +1,6 @@
 {
   "name": "transcode-cloud-worker",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "transcode-cloud-worker",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/samcfinan/transcode-cloud-worker.git"
   },
-  "author": "",
+  "author": "@samcfinan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/samcfinan/transcode-cloud-worker/issues"
